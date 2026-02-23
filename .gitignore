@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+
+# Models / artifacts
+models/*.pkl
+models/*.joblib
+models/*.bin
+
+# Reports / figures (optional: keep images if you want)
+# reports/figures/*.png
+
+# Data (choose your policy)
+# If you want to keep raw data OUT of GitHub, uncomment:
+data/raw/*
+# If you want to keep interim OUT of GitHub, uncomment:
+# data/interim/ and asterisk
+# If you want to keep processed OUT of GitHub, uncomment:
+# data/processed/ and asterisk
+
+# Logs
+*.log
+
+
+
+
