@@ -89,5 +89,7 @@ Evaluation metrics: AUC (primary), F1 and Recall (secondary)
 
 No random shuffling (to preserve temporal integrity)
 
-
+---
+**Slides**
+[https://www.canva.com/design/DAHCcwm-42Q/_1e2o7cEU_ceh3g3NKpHKg/edit]
 
